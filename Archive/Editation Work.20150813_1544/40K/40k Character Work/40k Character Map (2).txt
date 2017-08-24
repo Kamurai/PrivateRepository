@@ -1,0 +1,67 @@
+Character placement based off 40k
+
+Emporium:
+Sir Setzer		Master
+Ded Setzer		Master
+Samus Setzer		Master
+Tara Shift		Master
+Irin Mayas		Librarian
+*Arek Shaed		"Master"
+Jondas Blackhand	Chaplain
+
+Ghost Elves:*Jondas Blackhand*
+AcMar Othalis		Farseer
+Golis Uth AcMar Othalis	Avatar
+Masa Jandune		Warlock
+Mune Jandune		Warlock
+_			Warlock
+_			Warlock
+_			Warlock
+
+Shadow Elves:*Jondas Blackhand*
+Loki Centalasa		Wych Lord
+Rain Sersolosa		Wych Lieutenant
+
+Ork Warband:*Ded Setzer*
+Ghruhnk			Big WarBoss
+Grimok			Mad Dok
+
+Lock and Sickle:*Tara Shift*
+Rex Fear
+
+Alexai Stevens
+Dargo Infernos
+
+Nuke Climax
+Crazd Fusion
+Havoc Raptor
+Rival Devastator
+
+Rage Seraphim
+Malic Seraphim
+
+Battle Sisters:*Irin Mayas*
+Kith Star
+Tina Aqel
+Il Lumina
+
+Dark Hand:*Arek Shaed*
+Talin Ovser
+Keesk Rage
+Den Puls
+Cyren Hol
+Alun Sifen
+Borgin Casin
+Tal Dablun
+
+Hive:*Sir Setzer*
+Tyran I			Winged Tyrant
+Tyran II		Tyrant
+
+Offworld:*Sir Setzer*
+Trarken Kloldan
+_
+_
+_
+_
+_

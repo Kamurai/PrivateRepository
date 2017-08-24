@@ -1,0 +1,23 @@
+Consipatorium Rulest v0.1
+
+Setup:
+	Board
+	100 Token Set
+	Divide tokens equally amongst players
+	
+Round:
+	Each player takes a turn performing one action.
+	
+Turn:
+	On its turn, a player may do one of the following actions:
+		
+		Recon:				Look at a token affiliation.
+		Turn:				Change the affiliation of a token.
+		Move Asset:			Move a token to an adajecent space on the board.
+		Assasinate:			Have a token on the board remove another adjacent token on the board.
+		
+End Condition:
+	One token is left on the board.
+	
+Win Condition:
+	The player matching the affiliation of the last remaining token on the board wins.

@@ -1,0 +1,19 @@
+Antarrean:  Nations Unite:
+
+Physical Attack:
+
+If Evade(Defender) < Accuracy(Attacker) Then If Accuracy(Attacker) - Evade(Defender) >/= Prob(100) Then Hit Else Miss.
+If Accuracy(Attacker) < Evade(Defender) Then If Accuracy(Attacker) = 1 >/= Prob(100) Then Hit Else Miss.
+If Accuracy(Attacker) = Evade(Defender) Then If Accuracy(Attacker) = 1 >/= Prob(100) Then Hit Else Miss.
+If Hit Then Deal X damage
+Deal X damage
+
+[(LV(Attacker) * Attack(Attacker) - Defense(Defender) * Level) * 10] Rounded Up = Damage to Defender
+
+
+PSI:
+|PSI(Attacker) - PSI(Defender)| = Damage(X)
+
+If PSI(ATTACKER) - PSI(Defender) > 0 Then Damage(X) = Damage(Defender)
+If PSI(ATTACKER) - PSI(Defender) < 0 Then Damage(X) = Damage(Attacker)
+If PSI(ATTACKER) - PSI(Defender) = 0 Then Damage(Attacker) = 1 & Damage(Defense) = 1

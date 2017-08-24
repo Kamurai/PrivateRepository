@@ -1,0 +1,33 @@
+Massive Multiplayer Online Zombie Game:
+	The "game" is more of a MMO simulation game where a viral zombie outbreak occurs.	
+		
+
+Perspective:
+	Ideal perspective would be a 3rd person perspective adventure.
+
+Experience:
+	Ideally this would NOT be an RPG.
+	A skill exp system should exist versus a standard experience system.
+
+Ballistics:
+	"Breathing" should be taken into account in shooting, or at least variable accuracy.
+	(if applicable) Shooting skill should reduce variable accuracy's variance.
+
+"Melee":
+	(if applicable) Melee skill should only increase strength (thus increases potential damage).
+
+
+"Spread":
+	The origin of the disease can be started in the following variables:
+		The time delay before the virus begins to spread.
+		Random number of people. (1-x)
+		Random location of originating person. (Random region: out of selected regions)
+		Clustering: number of random originating persons per region. (selected by region)
+
+
+"Sound":
+	Actions and items can have a "loudness" factor associated with them which is equivalent to how many (relatively)
+	pixels away the sound will travel.
+		Either a "sound action" will call all zombies to measure their distance to the sound or
+		(More likely) a "sound action" will generate a "sound wave object" that will alert nearby zombies.
+		A "sound action" could call each zombie in it's range and set each zombie's attention to its coordinates.

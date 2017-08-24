@@ -1,0 +1,27 @@
+Digital Board Game:
+	Idea for a "redo" of Dokapon Kingdom.	
+		
+
+Rebootable features:
+
+	Battle System:
+		Make it more like an old-school JRPG: FF4 or FF6.
+		Up to three rounds of battle per turn.
+	
+	Movement System:
+		Be able to stop sooner as if you were trying to get somewhere, but had a 
+		chance of falling short of your goal.  (Unexpected weather and circumstance).
+		
+	Player interaction:
+		Be able to trade.
+		Be able to NOT attack one another.
+	
+	Item system:
+		A proper inventory that includes:
+			Being able to store equipment.
+			Being able to swap between different equipment.
+			
+	Magic System:
+		Cards for one shot spells.
+		Books for learning a spell permanently or while the book is equipped.
+		A book takes an equipment slot while learning, but learned spells do not.

@@ -1,0 +1,65 @@
+Conversion concept:
+
+	Conversion Puzzle Game:
+		Conversion Mechanic:
+			Fire to Air:		Fire burns into Air.
+			Air to Water:		Air draws moisture into Water.
+			Water to Earth:		Water soaks into Earth and creates volume.
+			Earth to Fire:		Earth feeds into Fire.
+			Fire to Earth:		Fire burns to Ash and solidifies to Earth.
+			Earth to Water:		Earth dissolves into Water and creates volume.
+			Water to Air:		Water spins to Air.
+			Air to Fire:		Air feeds into Fire.
+		
+		Control Mechanic:
+			The "elements" would act as minions.
+			You would just order about the elements to do stuff, go places to meet requirements or convert other elements into other things
+			
+		Puzzle Mechanic:
+			Require various amounts of different elements in different locations for level completion.
+			
+		Timer Mechanic:
+			Complete different puzzles within alotted time.
+			Possibly set overall time limit with "days" and hours per day.
+
+	Conversion Board Game:
+
+		Objectives:
+			Objective cards:
+				2 Fire	2 Water	2 Air	2 Earth
+		
+		Turn:
+			Generate an element.
+			Place elements in worker spots to do different conversions:
+				Double an element
+				Fire to Air
+				Air to Water
+				Water to Earth
+				Earth to Fire
+				Fire to Earth
+				Earth to Water
+				Water to Air
+				Air to Fire
+				
+				Fair trade:
+					Put one element out for someone to trade with you.
+			
+			Foregoing placement for the round allows a player to turn in objectives, draw a new objective, or buy elements.
+		
+		End condition:
+				Buy Out:		A player is out of objective cards, with at least 10 currency.
+				Retire:			A player is out of objective cards, has completed 5 objectives and is out of elements.
+				Shortage:		No elements can be collected.
+				Monopoly:		A player has all of one element.
+				Market Crash:	No currency is available.
+		
+		Win condition:
+			Have more currency than the other players.
+		
+		
+
+The Way: Of War
+	but essentially fire has dot and spreads and self aoe attacks
+	stone is tough and has single target high damage attacks
+	air would have similar targeting to fire, but little to no damage, push effects
+	water would have some push effects, ice attacks, stone and water could do capture techniques

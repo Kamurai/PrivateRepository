@@ -1,0 +1,28 @@
+Sacred Offerings
+
+Setup:
+	Select a board for the number of players:
+		The two player board is a square with two alters.
+		The three player board is a triangle.
+		The four player board is a centric square.
+		The five player board is a pentagon.
+		The six player board is a hexagon.
+		
+Player turn:
+	Each turn a player must move a character on the board.
+	Characters move in one of two ways:
+		Like a King in chess, one space in any direction.
+		Like a King in checkers, able to jump multiple pieces.
+	That character must end closer to the alter than they began.
+	If a player CAN sacrifice a character, they must.
+	
+Scoring:
+	A player gets +1 point on a turn they did not sacrifice a character.
+	A player get -x points equal to the value of the character sacrificed.
+	
+End condition:
+	No characters are left on the board.
+
+Victory condition:
+	The player with the higher points wins!
+	

@@ -1,0 +1,21 @@
+Swords
+Pikes	Pole-Arms
+Axes
+Maces
+Claws
+Nunchuks
+Whips
+Rods
+Gloves
+
+Guns
+
+Voice Amplifiers
+Books
+Art Stuff
+Cooking Stuff
+
+Bow and Arrow
+Ballistics (e.g. Boomerangs)
+Gambling Stuff (e.g. Darts)
+Toys (e.g. yo-yo, baseball bat)

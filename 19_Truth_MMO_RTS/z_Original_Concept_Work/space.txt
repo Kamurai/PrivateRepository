@@ -1,0 +1,74 @@
+Initial crew: 1 Captain
+Initial budget: $1 000 000 (credits).
+
+Ship build:
+	Ship rooms:
+		Minimum:
+			Engine Room
+			Cockpit
+			Maintenance
+			Airlock
+		Primary:
+			Weapons Panel
+			Med Bay
+			Cargo Bay
+			Shields
+			Computer Panel
+		Optional:
+			DNA Storage
+
+	Ship systems:
+		Minimum:
+			Piloting
+			Engine
+			
+		Primary:
+			Life support
+			Auto Pilot
+			Healing Pod
+			Subspace Engine
+			
+		Optional:
+			Teleporters
+			Drone CPU
+			Cloaking
+			Stealth (Radar Jammer)
+			Clone Pod
+			DNA Bank
+			Auxilary Battery
+			
+	External systems:
+		Minimum:
+			Hull
+			Door
+		Primary:
+			Weapons
+			Collection Arm
+			Scanner
+			Drone Disruptor
+		Optional:
+			Rear Tow
+			Boarding Tow
+			Boarding dock
+			Drone Launcher
+
+	Internal systems:
+		Minimum:
+			Internal Sensors
+			Communications
+		Primary:
+			Navigation
+			Fire Suppression
+			
+		Optional:
+			Hull repair nano-bots
+			Crew healing nano-bots
+		
+	Crew Equipment:
+		Minimum:
+		Primary:
+			Emergency Respirators
+			Fire Extinguishers
+			Sidearms
+		Optional:
+			Firearms

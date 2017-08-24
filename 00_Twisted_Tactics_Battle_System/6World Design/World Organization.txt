@@ -1,0 +1,33 @@
+Anterrea:
+
+Ork Empire:
+	Orks		Italy/Mid-Europe
+	Goblins		Greece
+	Ogres		Western Russia
+	Trolls		Eastern Europe
+	Hobgoblins	Mid-Europe
+
+Elven Nation:
+	Elves		North Africa
+	Gnolls		North West Africa
+	Necromantics	East Africa
+	Elementalists	West Africa
+
+Invading Nations:
+	Vampyres	Inner China
+	Crawlers	Middle East
+	Demons		North America/West Australia
+	The Dark	South America/East Australia
+
+Alliance Nations:
+	Humans		Outer China
+	Avia		Japan
+	Furbolgs	Russia
+	Dwarves		Western Europe
+
+Independents:
+	
+	Reptilians	India
+	Werefolk	Northern Europe
+	Minotaurian	South Africa
+	Dragons		Greenland

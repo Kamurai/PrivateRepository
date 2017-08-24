@@ -1,0 +1,94 @@
+Coliseum: Arena
+
+50 card deck
+
+
+Start		Begin game with 10 pts and 5 cards in your hand.
+		20100701 Editation:  A bell card should start in play.
+
+Draw 1 card	The turn begins when the player draws a card.
+
+Play Cards	1st oppurtunity to play spells & creatures.
+
+Attack		See battle.
+
+Play Cards	2nd oppurtunity to play spells & creatures.
+
+Last Chance	Discard down to 5 cards & present final quickcast oppurtunity.
+
+Draw 1 card	Turn ends when player draw card.
+
+End		The next player starts his/her turn.
+
+
+Battle:  Creatures are assigned to attack one at a time.  After each assigned attack, the opponent is allowed to counter 
+assault each attacking creature, & you are allowed to counter assault the counter assaulting creature until all creatures 
+have been assigned in battle (in one "chain" or another) or reserved (creatures just entering the coliseum must be held in 
+reserve (like Summoning Sickness).  This can best be done by placing attacking creatures from one side to the other & place 
+spaces inbetween chains.
+
+
+20071124 Editation:
+*
+Objectives:  All damage done to creatures is permanent.  The objective is to clear out the opponents creatures so that you 
+may have your creatures attack / reach the objective points in the coliseum unhindered.  The opposing player may choose 
+to allow his objective point to be activated for strategic purposse, e.g. opposing player has two creatures that can score 
+twice against the first, or simply does not want the last creature(s) to perish.
+
+If one player is directly attacking a certain creature, that creature has an oppurtunity to run, but then may not be utilized 
+to score.  One creature may not run from two different creautures, and may not run in two sequential turns.
+
+A creature that is gaining an objective may always be attacked by an unutitilized creature from the opposing side.
+Regardless of whether or not the assaulting creature loses, the creature attempting to score is distracted from scoring.
+
+Card Types:
+
+Slo Spells:  These are equipment, potions, rituals that must be performed or in actuality would take some time to perform.
+
+Kwik Spells:  These are essentially spells that the wizard you hired is casting from your bench.  However there will be 
+nothing so obvious as a fireball erupting from the dugout and encasing the opposing team creatures....FOUL!
+
+20100701 Suggestion:  Foul Cards / Spell:  Part of the cost is that the player loses a point or opponent gains a point.
+Or cannot score in the same turn as a foul card is played.
+
+Creatures:  These are the creatures doing battle in the coliseum.
+*
+
+Play Cards:  Creatures may enter the Coliseum, be played as support (mana), or spells can be cast, kwik or slo.
+
+_________________________
+|NAME__________________c|
+| |PIC                | |
+| |                   | | 
+| |                   | |
+| |                   | |
+| |                   | |
+| |                   | |
+| |___________________| |
+|CARD TYPE_______ED/RAR |
+| |TEXT               | |
+| |                   | |
+| |                   | |
+| |                   | |
+| |                   | |
+| |___________________| |
+|@___________________POW|
+
+
+NAME			-NAME OF CARD
+c				-COST VALUE: COST OF FAN FACTOR TO PLAY CARD
+RC				-RECALL VALUE: 2XC
+CARD TYPE		-KWIK SPEL, SLO SPEL, CREATURE
+PIC				-PICTURE OF SPELL/CREATURE
+EDITION/RARITY	-ARENA (GOLD, SILVER, RED, BLACK, WHITE)
+TEXT			-ABILITIES & TEXT
+POW				-BATTLE STRENGTH XXX
+@				-FAN FACTOR VALUE WHILE IN THE FAN ZONE (1/2 OF POW/100)
+
+
+L	- LEGENDARY
+UR	- UBER RARE
+R	- RARE
+U	- UNCOMMON
+C	- COMMON
+

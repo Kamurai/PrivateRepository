@@ -1,0 +1,97 @@
+Damage System:
+
+If "Living", then HP > 0.
+	If a "Living" character receives positive HP alteration, then HP++.
+	If a "Living" character receives negative HP alteration, then HP--.
+	
+If "Undead", then HP < 0.
+	If a "Undead" character receives positive HP alteration, then HP--.
+	If a "Undead" character receives negative HP alteration, then HP--.
+	
+Deadflags:
+	Undead:		deadflag = -1
+	Dead:		deadflag =  0
+	Living:		deadflag =  1
+	Re-Res:		deadflag =  2::Infinity
+	
+Status:
+	Status is a List<int, string>, allowing multiple status to be invoked on a single character.
+	
+Status Table:
+	Key:
+	Name:				Identifiable name of stat
+	Severity:			Percentage that the status will use, default to 0 if not used.
+	Rules:				Interpretable, comma-delimination of status
+	Description:		High-level description of what the status should do.
+
+	Key = Name, Severity, Rules, Description
+	0 = Clear, 0, none, Default Setting
+	1 = Poisoned, 5, none, DPT of 5%.
+
+Weapon, Spell, and Technique targeting:
+Add an attribute to these in order to designate how many square an attacker may target at once.
+
+
+Item and Equipment Tables:
+	Key:
+	Accuracy:
+	Evasion:
+	Attack:
+	Defense:
+	Magic Power:
+	Magic Resistance:
+	Psychic:
+	Deadflag:
+	Movement:
+	Range:
+
+!!!Finish/write table designs.!!!
+
+//load information for classes
+
+
+//default
+classname[000]      = "Default";
+maxhp[000]          = 00;
+maxmp[000]          = 00;
+maxtp[000]          = 00;
+accuracy[000]       = 00;
+evasion[000]        = 00;
+attack[000]         = 00;
+defense[000]        = 00;
+magicpower[000]     = 00;
+magicdefense[000]   = 00;
+psychic[000]        = 00;
+movement[000]       = 00;
+range[000]          = 00;
+techniquelist[000]  = 00;
+spelllist[000]      = 00;
+rulelist[000]       = 00;
+
+uniquecharactertechlist[000]     = 0;  //string representing which techniques are available
+uniquecharacterrulelist[000]     = 0;  //string representing which rules are available
+
+PIVOT!!!!
+uniquecharacterspelllist[000]    = 0;  //string representing which spells are available
+
+Resolution:  Spells and Techniques are now both "Abilities".
+
+//rules list
+//this should be utilized whenever:
+    //a character being created is being assigned its class
+    //upon equipment change
+    //upon class change
+    
+//rules should be removed specifically, based on which factors are being changed, then new rules applied based upon the new factors.
+
+//rules are applied as such:
+    //Interpret all the parameters, compare to character settings and if it applies (first 6)
+    //interpret target attribute, direction and value, then apply (last 3)
+
+//rules format
+//race, class, equipment slot, equipment type, bonus direction, bonus value
+
+classrules[000]     ="0,0,0,0,0,0,0,0,0"
+
+
+

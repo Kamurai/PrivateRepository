@@ -1,0 +1,41 @@
+The Twisted Tactics class/job system will be used for Antarrea or likewise Twisted Tactics will be placed in Antarrea.
+
+
+Tactics class system and job charts are present in Twisted Tactics, possible to alternate some jobs and / or give certain 
+a character a bonus to its attributes based on class and race.
+Item bonuses apply as normal, with additional race and / or class bonuses.
+
+
+
+
+
+Special Characters:
+Two options:
+
+	Option 1: Treat character as a monster with fixed  abilities (ugh).
+
+	Option 2: Start special character with a high level job and stats, possible bonus class for character.
+
+	Option 3: Possibility of using an item that specifically allows bonuses for a specific class.
+
+Twisted Tactics structure will not allow for a specified job class and / or nonexistent abilities for a general job class.
+
+Given a special character, a high level job class, and / or / plus a job class bonus for that job 
+via an item clashes the least of all options.  (Option 3)
+
+Unique names and bonus items, weapons, armor, and accessories are easier to give bonuses to as they are individual times 
+and actual objects.
+
+
+
+
+
+
+
+Cross classing system for secondary abilities:  
+A point system or maximum of secondary talents needs to be established past what abilities the job allows
+ as primary abilities,
+i.e. Psy-engineers get both psionics and tecnology as primary abilities.
+ 
+	Solution:  Fixed secondary ability is a single space item ability, and primary abilities define the character.
+

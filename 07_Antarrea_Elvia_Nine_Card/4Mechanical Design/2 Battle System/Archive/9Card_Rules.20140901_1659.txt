@@ -1,0 +1,95 @@
+9 card (Fuck 'Em)
+
+This game was accidently created while attempting to sort out the madness which is Assault CCG.
+
+The game is played amongst 2 or more players.
+
+Each player has a deck, a 3 x 3 playing "grid", a discard pile and an energy zone.
+
+
+
+The player starts with 5 cards in-hand, drawn from the top of the deck.
+
+Suggested Start:
+
+Each player starts with 60 cards in the deck.
+Each player starts with 50 life points.
+
+
+
+The player who goes first, (sort it out yourselves!) may draw one card to begin his or her turn.
+
+The player may then play any energy cards available, placing those in the "energy zone".
+
+The energy is used to cast creatures each turn, and readies after the player begins his or her turn.
+
+A creature is played into the rear-most row of the "grid", but move forward if no other creatures are infront of it.
+
+(Developer note:  Creatures cost a number of energy equal to its attack plus defense.)
+
+Each player ends his or her turn by assaulting another player.
+
+Playing Energy:  This is dependent upon the style being played.
+
+
+	Elementia:
+  		You may play as many energy cards as you have in your hand per turn, but only mana cards from your hand.
+
+	Necromancy:
+		You may play ONE creature as energy per turn as well as mana cards from your hand.
+
+	Gnollian:
+		You may play creature cards face-down as energy, but may NOT have mana cards included in the deck.
+
+
+Draw:
+
+The player begins his or her turn by drawing a card.
+
+Movement:
+
+Each creature is allowed a 1 "space" movement which may be done horizontally or vertically, but not diagonally.
+
+Clarification:  EACH creature may move ONE SPACE.  Creatures are not allowed to swap multiple times for any reason.
+
+Assault:
+
+During an assault a player may send any creatures (with an attack, attack:0 creatures are essentially big walls) in the front-most row (nearest the enemy),
+ but that creature must retain its column.
+
+Declare this by activating the creatures that will lead the assault.
+
+Compare the currently assaulting creature to the front most enemy creature in the same column.  Apply this creature's attack to its opponent's defense.
+
+If attacker's attack is less than defender's defense, then the defender lives.
+If defender's attack is less than attacker's defense, then the attacker lives.
+
+If attacker's attack is greater than or equal to the defender's defense, then the defender dies.
+If defender's attack is greater than or equal to the attacker's defense, then the attacker dies.
+
+If the attacker's attack exceeded the defender's defense, then the remaining attack (the difference) is applied to the next defender in that column.
+If the attacker's attack exceeded the defender's defense, then the next defender's attack is applied to the attacker.  This is cumulative with the first attacker.
+
+EXCEPTION:	If the attacker dies as a result of the defender's attack, then the damage is not apply further than that defender.
+
+This process repeats through all rows of a column until the attacker is out of attack, out of defense (and then dies), or the attacker breaches all rows with remaining attack.
+
+This remaining attack is applied to the player.
+
+Once the front row of a column has been resolved, the next row of that column has the option to continue attacking, and so forth.
+
+The next column is then allowed to assault in the same manner.
+
+Cleanup:
+
+Before the turn is over, push each creature as far forward on the "grid" as possible.  It is possible for assaulting creatures to die and leave gaps.
+
+If a player has no creatures on the "grid" and cannot play any creatures this turn, they lose.
+
+Ditch:
+
+As an option, the player may discard ANY cards in its hand before going to Fizzle.
+
+Fizzle:
+
+At the end of turn, the player draws or discards until he or she has five cards in hand.

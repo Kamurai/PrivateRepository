@@ -1,0 +1,71 @@
+Generation 2 Armies: Fungi, Vivus Mortem, Shadows of the Synergy, (The Dark)
+
+Fungi - fungi-like humanoids
+Vivus Mortem - Vampires and their familiars are attempting to expand their control, and 
+	secure more "food"
+Shadows of the Synergy - Evil energy beings, technologically inclined, responsible for 
+	A.I. and D.L. armies
+The Dark - Cunning, sliver-like creatures that can "phase" or virtually teleport
+
+Fungi:
+
+Hq -		Intelligence (smart beings that add effects to retinue)
+		Monsterous creature fungus
+
+Retinue -	Speedhounds
+		Power Borgs
+		Living Shields
+
+Elites - 	Fungi Dreadnought
+		Sniper Team
+		Kites
+
+Troops - 	Rangers
+		Artillery Team
+		Borgs
+
+Fast Attack -	Walker
+		Teradon
+
+Heavy Support -	Fungi Giant
+		Heavy Artillery Squad
+
+Vivus Mortem:
+
+HQ - 		Vampire Lord
+
+Retinue -	Vampires
+
+Elites -	Vampires
+
+Troops -	Familiars
+
+Fast Attack -	Devils
+
+Heavy Support -	Necromancers
+
+
+
+Shadows of the Synergy:
+
+HQ -		Grand Templar
+		Grand Talis
+		Grand Shade
+
+Retinue - 	Templar (Grand Templar)
+		Talis (Grand Talis)
+		Shades (Grand Shade)
+
+Elites - 	Templar (Grand Templar)
+		Talis (Grand Talis)
+		Shades (Grand Shade)
+
+Troops -	Talons
+		Shadows
+		Bishops
+
+Fast Attack -	Shadow Hover Bikes
+		Winged Talons
+
+Heavy Support -	Shadow Hover Tanks
+		Bishop Blast Squads

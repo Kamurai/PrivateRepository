@@ -1,0 +1,9 @@
+Junk Wars is a futuristic tabletop game set in Antarrea.
+
+Turned Based
+
+Move:		Position and / or into combat
+
+Shoot:  	Fire from your squad to another
+
+Assault:	Work out squads in combat

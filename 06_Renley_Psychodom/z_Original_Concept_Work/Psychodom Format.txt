@@ -1,0 +1,64 @@
+Psychodom: The One Empire
+
+Format
+
+Bodybuilder:  Character appearance
+
+Statusbuilder:  For status point distribution
+
+5 people to a party
+
+"Other world" setting:  Post setting in future or dormantly futuristic past
+
+Magic & Tech & Energy Skill & Psionics
+
+Equipment/Weapons, monsters/enemies
+
+Playable races:  Elf, Human, Dwarf, Kender, Gnome, Avia, Ogre, Ork, Minotaur, Troll
+
+Other races:  Dragons, goblins, Hobgoblins, demons, beastmen, kobold, halflings, vampires
+
+World areas:  Towns & cities/region/nation/continent
+
+Transit:  Walking/teleport/lines/horse/dragon/boat
+
+Fighting:  Real time:  Rate of attack
+
+History(to be covered):  Magic(Elves), Technology(Gnomes), Religion(Godds)
+
+Class:  Class definition depends upon points distributed on natural attributes
+
+Dexterity is: Speed + Evade = Quickness = Dexterity
+
+Status, qualities, & attributes:
+
+Name
+Race
+Class
+Level
+Alignment/Order
+Psionics/Sanity
+Charisma/Bravery
+Luck/Custom		
+Experience:
+Experience to level:
+Accuracy: Close Quarters
+Ballistics: Ballistics
+Dexterity: Magic, Ballistics, Technology
+Strength:  Chi, Close Quarters, Ballistics
+Stamina:  chi, Psyionics, Magic
+Intelligence:  Magic, Technology, Psionics
+
+Equipment:
+Shield:  Affects Dexterity ^ (Strength v, Stamina ^)
+Armor:  Affects Stamina ^ (Dexterity v, Accuracy  v, Strength v)
+Accessories:  Neck, Ring (R,L), bracers, belt, boots
+
+Over Classes:
+
+Psionics 		-Telepathy, Telekinectics, damage, defense, manipulation
+Technology		-fire arms, implants, maintenance, use
+Ballistics		-string weapons, throwing, extenstions
+Close Quarters	-Technology, Close Quarters, 1 handed, 2 handed, double handed
+Magic			-Attack, Effect, Defense, Healing
+Chi				-Regen, Attribution, Attack, Manipulation

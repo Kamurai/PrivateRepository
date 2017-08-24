@@ -1,0 +1,137 @@
+Renley:
+
+Warring Nations:
+Tactics Adventure: option B:
+
+Note:  Possibilities for community RPG
+Format:  Similiar to Tactics Ogre, the game will use a deployment system from the world map.  
+Selecting a location opens the battle arena from which squads can be deployed for battle.  The 
+Army may join an existing battle as an ambush or flee from a battle by recalling units.  Upon 
+returning to the world map all characters are automatically rejuvenated.
+	The world consists of all of Renley's only continent.
+	The attacks of a character depends on its race & postion in the squad, as well as class
+& weapon assignment.  Classes will eventually upgrade to become more advantageous.  Classes 
+available for change will depend upon equipment, statistics, & experiences.
+	Each race will have its own hierarchy for classes.
+
+FORMAT:
+
+	WORLD TRAVEL SIMILIAR TO TACTICS OGRE, AUTOMATIC REJUVENATION UPON-ENTERING WORLD MAP
+
+BATTLE OPTION:
+
+	SQUAD BASED (OGRE TACTICS) - AN ARMY DOES BATTLE WITH CONTROL LIMITED TO DIRECT ATTACKS
+ & POSTIONS OF SQUADS. (FLEE AND JOIN FEATURES?)
+
+LOCATION:
+
+	RENLEY - THE ONE CONTINENT, ALL 10 RACES
+
+WEAPON CLASSING:
+
+BATTLE OPTION:
+
+	CHARACTER ATTACKS WILL DEPEND UPON WEAPON & POSTION.  CLASSES MAY BE UPGRADED (REQUIRES: 
+EXPERIENCE, ALIGNMENT) OR REASSIGNED TO A NEW WEAPON PROFICIENCY.
+
+Campaigns:
+
+Ten campaigns available:
+
+Ogres
+Elven
+Dwarven
+Human
+Kender
+Minotaur
+Gnomish
+Ork
+Troll
+Avia
+
+Character Attributes:
+
+# of attacks: 1, 2, or 3
+Range of Attack:  Melee / Range
+
+Assault / Envoy Options:
+Variants in dialogue and actions of enemies per fallen locations with a morale check upon assault.
+
+Racial Characteristics:
+Morale:
+General:
+Striking / Aggression:
+Diplomacy:
+Aggressive
+Hardy
+Arrogant
+Fierce
+Animalistic
+Greedy
+Mistrusting
+
+
+Army Characteristics:
+Menace / Weakness (Reputation):
+Bravery / Fear (Morale):
+
+
+Border Battles:
+
+Invading HQ is on relative border.  This requires each nation to be divided into regions, which may be designate by "point"
+ locations.
+
+All squads are 6 "personnel".  Monstrous creatures take 2 personnel slots.  One slot will be designated as a Sergeant slot,
+ and another as an Option slot.  Equivalent to 2 large beasts with riders.
+
+Large Beasts:
+Ogres		Behemoth
+Elven		Griffin
+Dwarven		Dire Salamander
+Human		Giant
+Kender		Sphinx
+Minotaur	"Cursed"
+Gnomish		Golem
+Ork			Gore
+Troll		Worg
+Avia		Albatross
+
+Flyers:
+Ogres		Zeppy
+Elven		Griffin
+Dwarven		Aerotech
+Human		Griffin
+Kender		Hippogriff
+Minotaur	Talon
+Gnomish		Aerotech
+Ork			Kopter
+Troll		Kopter
+Avia		Avia
+
+Time System:
+Day to night rotation.  Chapter proceed after every battle.  4 volumes, each 1/4 of total chapters.  60 chapters, 6 regions 
+per nation.
+
+Chapter Progession:
+First 6 chapters are free of movement, as you are conquering your nation.  First chapter is the beginning of the 
+usurp.  After 3rd Chapter word has spread about your army usurping the nation.
+
+Alliance Options:
+Envoy will not be available without a conquered nation.  Envoy missions utilize troops differently as the mission shifts from 
+obliteration to communication.  Envoy for alliances must be done at the nation capital.  Border incursion envoys are only 
+good for safe passage to capital.
+
+Bribery Option.
+
+Ogres		must be obliterated before envoyed.
+Elven		must NOT be attacked and you must flee from them before envoy.
+Dwarven		must be bribed, you must not flee from them.
+Human		must not be attacked too much.
+Kender		must not defeat, must not flee from them.
+Minotaur	must not defeat to many, must not flee from them.
+Gnomish		must bribe, you must defeat them.
+Ork			must be attacked and you must not be defeated before envoy.
+Troll		must not flee from them and you must attack them.
+Avia		must flee from them, must not defeat them.
+
+

@@ -1,0 +1,46 @@
+Renley: Psychodom: The One Empire
+
+Concept:
+
+	The One Empire is a party-based, story driven concept.  The idea being to push the 
+characters through a somewhat linear story-line while allowing them to adventure all they want
+ to, within the never ending time limits.  An after game option to re-explore the world with 
+side quests.
+	The One Empire will use a similar if not same classing system as warring nations.
+
+Alternative:
+
+        The same concept can easily be applied to an MMORPG.  This MMORPG can be PVP based, with a 
+points advancement system instead of a direct class system.
+
+Notes:
+
+      Points advancement system:
+		With the current growth system in place, there are four non-trainable attributes,
+	and four trainable attributes.
+		2 to 4 points for non-trainable attributes will have a fixed growth path (or increase rate per level) 
+	based on the character's race (and possibly current stats).
+		2 to 4 points for trainable attributes will been assigned by the player, the resulting stats will 
+	determine the "class" of the player and what skills / feats may be available for the 
+	character to gain.  The number of skills available at any given level are also determined 
+	by the character's attributes.  A character with a "pure" class designation (as opposed 
+	to a "multi-class" character) should be allow a bonus skill per level.
+
+	"Class" System:
+		There is a chart to determine the actual class of the character based on the character's attributes.
+	Any combination of attributes should result in either "no class" resulting, or a "class" from 2/3 match on 
+	the chart.  While any character's "class" is dynamic throughout the game, the skills chosen throughout the 
+	game depend upon certain attributes for effectiveness.  If a character changes "class" by changing their 
+	distribution of points, their previously earned skills may not work as well.
+	
+	PVP aspects:
+
+		A player may attack any player, NPC, or enemy at anytime.
+		If an attacked player does not go to battle stance, the attacking player receives no experience,
+	 and the attacked player drops nothing.
+
+		An enemy, NPC, or player in Battle Stance, if killed, should drop something, if only a bit of gold,
+	 and the attacking player should gain experience.
+
+		An attacking player loses no experience from PVP, a little from enemies, and a lot from NPCS.
+		

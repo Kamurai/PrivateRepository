@@ -1,0 +1,57 @@
+Sacred Offerings Ruleset v0.1
+
+Setup:
+	Select a board for the number of players (from 2 to 6):
+		The two player board is a square with two alters.
+		The three player board is a triangle with an alter at its center.
+		The four player board is a square with an alter at its center.
+		The five player board is a pentagon with an alter at its center.
+		The six player board is a hexagon with an alter at its center.
+	Set tokens on the board in the following manner for each player corner:
+		2 players: 
+			1 4-point tokens
+			3 3-point tokens
+			5 2-point tokens
+			7 1-point tokens
+		3 players:
+			8 1-point tokens
+			6 2-point tokens
+			4 3-point tokens
+			2 4-point tokens
+		4 players:
+			7 1-point tokens
+			5 2-point tokens
+			3 3-point tokens
+			1 4-point tokens
+		5 players:
+			8 1-point tokens
+			6 2-point tokens
+			4 3-point tokens
+			2 4-point tokens
+		6 players:
+			8 1-point tokens
+			6 2-point tokens
+			4 3-point tokens
+			2 4-point tokens
+	
+Determine First player:
+	Decide amongst yourself through any method of yelling, rolling dice, pulling straws (not hair), etc.
+
+Player turn:
+	Each turn a player must move a character on the board.
+	Tokens move in one of two ways:
+		One space in any direction. (Like a King in chess)
+		Able to jump multiple pieces. (Like a King in checkers)
+	That character must end closer to the alter than they began.
+	If a player CAN sacrifice a character, they must.
+	
+Scoring:
+	A player get +1 points equal to the value of the character sacrificed.
+	A player gets -1 point on a turn they did not sacrifice a character.
+	
+End condition:
+	No characters are left on the board.
+
+Victory condition:
+	The player with the lower points wins!
+	

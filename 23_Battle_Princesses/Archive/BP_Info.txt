@@ -1,0 +1,1648 @@
+//Game Index 9: Battle Princess
+//Keyed by Master Index
+//1046-
+
+//Board
+Name[1046] = "Battle Princess Board";
+Game[1046] = "BattlePrincess";
+Object[1046] = "obj_BPBoard";
+Type[1046] = "Board";
+SubType[1046] = "BattlePrincess";
+Faction[1046] = "BattlePrincess";
+Edition[1046] = "Base";
+Description[1046] = "Holds the stock and tokens during the game.";
+Value[1046] = "0";
+Cost[1046] = "";
+
+//Tokens
+Name[1047] = "Stun Token";
+Game[1047] = "BattlePrincess";
+Object[1047] = "obj_BPTokenStun";
+Type[1047] = "Token";
+SubType[1047] = "Stun";
+Faction[1047] = "BattlePrincess";
+Edition[1047] = "Base";
+Description[1047] = "A character with a stun token may not be used.";
+Value[1047] = "0";
+Cost[1047] = "";
+
+Name[1048] = "Poison Token";
+Game[1048] = "BattlePrincess";
+Object[1048] = "obj_BPTokenPoison";
+Type[1048] = "Token";
+SubType[1048] = "Poison";
+Faction[1048] = "BattlePrincess";
+Edition[1048] = "Base";
+Description[1048] = "Remove the character with the last poison token.";
+Value[1048] = "0";
+Cost[1048] = "";
+
+Name[1049] = "Wish Token";
+Game[1049] = "BattlePrincess";
+Object[1049] = "obj_BPTokenWish";
+Type[1049] = "Token";
+SubType[1049] = "Wish";
+Faction[1049] = "BattlePrincess";
+Edition[1049] = "Base";
+Description[1049] = "Represents an unused wish action.";
+Value[1049] = "0";
+Cost[1049] = "";
+
+Name[1050] = "Point Token";
+Game[1050] = "BattlePrincess";
+Object[1050] = "obj_BPTokenPoint";
+Type[1050] = "Token";
+SubType[1050] = "Point";
+Faction[1050] = "BattlePrincess";
+Edition[1050] = "Base";
+Description[1050] = "Represents 1 victory point.";
+Value[1050] = "0";
+Cost[1050] = "";
+
+Name[1051] = "Crown Token";
+Game[1051] = "BattlePrincess";
+Object[1051] = "obj_BPTokenCrown";
+Type[1051] = "Token";
+SubType[1051] = "Crown";
+Faction[1051] = "BattlePrincess";
+Edition[1051] = "Base";
+Description[1051] = "Represents 10 victory points.  The Princess with the most cards in play can claim it, but can not use acitons.";
+Value[1051] = "0";
+Cost[1051] = "";
+
+//Decks
+	//Selection
+Name[xxx] = "Mermaid Selection Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionMermaid";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Mermaid selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Sleeping Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionSleeping";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Sleeping selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Tower Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionTower";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Tower selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Abducted Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionAbducted";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Abducted selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Outlaw Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionOutlaw";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Outlaw selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Ragged Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionRagged";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Ragged selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Frog Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionFrog";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Frog selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Lolita Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionLolita";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Lolita selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Arabian Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionArabian";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Arabian selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Ice Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionIce";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Ice selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Native American Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionNativeAmerican";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Native American";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Native American selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Asian Warrior Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionAsianWarrior";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Asian Warrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Asian Warrior selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Fairy Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionFairy";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Fairy selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Scottish Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckSelectionScottish";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Holds Scottish selection cards.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+	//Stock
+Name[xxx] = "King Triton Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockKingTriton";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Fish Friends Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockFishFriends";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 attacks.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Prince Eric Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPrinceEric";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Mermaid card Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMermaid";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to stun a character for up to 1 turn.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Trident card Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockTrident";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for up to 1 wish.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "A Little Song Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockLittleSong";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 attacks.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Underwater Palace Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockUnderwaterPalace";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 attacks.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Ursula Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockUrsula";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to either deal 3 damage OR prevent up to 3 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Prince Phillip Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPrincePhillip";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Sword of Truth Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockSwordOfTruth";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Shield of Virtue Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockShieldOfVirtue";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "True Loves's Kiss Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockTrueLovesKiss";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 attack.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Fairy Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockFairy";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for up to 1 wish.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Poisoned Needle Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPoisonedNeedle";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal 2 poison tokens.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Enchanted Dragon Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockEnchantedDragon";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 3 attack.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Maleficient Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMaleficient";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Prince Flynn Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPrinceFlynn";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Magical Hair Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMagicalHair";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to score up to 1 point.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Maximus Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMaximus";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Pascal Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPascal";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to steal up to 1 point.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Briar Thorns Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockBriarThorns";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to stun a character for up to 2 turns.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Young Prince Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockYoungPrince";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Young Princess Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockYoungPrincess";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 1 resource.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Gothel Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockGothel";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Beast Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockBeast";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Healthy Rose Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockHealthyRose";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to score up to 1 point.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Maurice Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMaurice;
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 1 resource.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Cogsworth Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockCogsworth";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Lumiere Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockLumiere";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 attack.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Mrs. Potts Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPotts";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 2 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Angry Wolf Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockAngryWolf";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 1 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Gaston Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockGaston";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to kill up to 1 character.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Prince Valiant Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPrinceValiant";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Dwarf Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockDwarf";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Negotiations Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 2 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Animal Friends Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockAnimalFriends";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to score up to 1 point.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Poison Apple Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPoisonApple";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal 2 poison tokens.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Magic Mirror Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMagicMirror";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to stun a character for up to 2 turns.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Royal Guard Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockRoyalGuard";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Evil Queen Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockEvilQueen";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Prince Charming Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPrinceCharming";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Fairy Godmother Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockFairyGodmother";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for up to 1 wish.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Fine Dress Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockFineDress";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 1 resource.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Pumpkin Carriage Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPumpkinCarriage";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 1 resource.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Grand Castle Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockGrandCastle";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 2 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Dance Card Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockDanceCard";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to stun a character for 1 turn.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Evil Stepsister Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockEvilStepsister";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Evil Stepmother Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockEvilStepmother";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Prince Naveen Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockPrinceNaveen";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Mama Odie Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMamaOdie";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 attack.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Alligator Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockAlligator";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 1 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Charlotte Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockCharlotte";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 1 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Eli La Bouff Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockEliLaBouff";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 2 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Shadow Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockShadow";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 1 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Frog Curse Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockFrogCurse";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to kill up to 1 character.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Facilier Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockFacilier";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 2 wishes.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Eat Me Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockEatMe";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Double the Attack and/or Defense of a character, remove from game.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Cheshire Cat Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockCheshireCat";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to steal up to 1 point.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Bandersnatch Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockBandersnatch";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 2 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Jub Jub Bird Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockJubJubBird";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 1 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Executioner Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockExecutioner";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to score up to 1 victory point.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Red Queen Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockRedQueen";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 1 resource.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "White Queen Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockWhiteQueen";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used for 1 resource.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Jabberwocky Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockJabberwocky";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to deal up to 3 damage.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Carpet Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockCarpet";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Allow another character to attack without being blocked.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = "Monkey Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStockMonkey";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to steal up to 1 point.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "NativeAmerican";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "AsianWarrior";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+Name[xxx] = " Deck";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPDeckStock";
+Type[xxx] = "Deck";
+SubType[xxx] = "Selection";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "Can be used to prevent up to 3 resources.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//Cards
+	//Characters
+Name[xxx] = "Mermaid Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessMermaid";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Mermaid";
+Edition[xxx] = "Base";
+Description[xxx] = "A mermaid Princess.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Sleeping Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessSleeping";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Sleeping";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess that was sleeping.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Tower Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessTower";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Tower";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess in a Tower.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Abducted Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessAbducted";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Abducted";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess that was abducted.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Outlaw Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessOutlaw";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Outlaw";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess with a warrant.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Ragged Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessRagged";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Ragged";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess who started in rags.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Frog Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessFrog";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Frog";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess who spent time with a frog or two.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Lolita Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessLolita";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Lolita";
+Edition[xxx] = "Base";
+Description[xxx] = "A young, imaginitive Princess.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Arabian Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessArabian";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Arabian";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess from the Middle East.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Ice Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessIce";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Ice";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess who has a frosty demeanor.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Native American Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessNativeAmerican";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Native American";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess from the praeries.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Asian Warrior Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessAsianWarrior";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Asian Warrior";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess who isn't afraid to pick up a sword.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Fairy Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessFairy";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Fairy";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess from the world of the fey.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+Name[xxx] = "Scottish Princess";
+Game[xxx] = "BattlePrincess";
+Object[xxx] = "obj_BPCardPrincessScottish";
+Type[xxx] = "Card";
+SubType[xxx] = "Princess";
+Faction[xxx] = "Scottish";
+Edition[xxx] = "Base";
+Description[xxx] = "A Princess from the lands of Scotland.";
+Value[xxx] = "0";
+Cost[xxx] = "";
+
+	//Selection
+	
+	
+	//Stock
+

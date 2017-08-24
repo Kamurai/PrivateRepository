@@ -1,0 +1,117 @@
+//generality
+As attacker's acc increases, hits become more likely
+
+As defender's eva decreases, hits become more likely
+
+
+
+
+//case where acc > eva
+	//attacker always hits
+//case where acc == eva
+	//attacker always hits
+//case where acc < eva
+	//attacker has a chance of missing
+
+	
+//case where attacker hits
+	acc >= eva
+//case where attacker has a chance to miss
+	
+//case where attacker misses
+	acc < (eva/2)
+
+find difference between acc and eva (acc - eva)
+
+ADD the difference TO acc
+
+roll modified out of acc
+
+
+3 vs 5
+
+diff = acc-eva = 3-5 = -2
+
+mod = acc+diff = 3+-2 = 1
+
+hit = mod/acc = 1/3 =.33
+
+
+5 vs 3
+
+diff = 5-3 = 2
+
+mod = acc+diff = 5+2 = 7
+
+hit = mod/acc = 7/5 = 1
+
+
+75 vs 73
+
+diff = 75-73 = 2
+
+mod = acc+diff = 75+2 = 77
+
+hit = mod/acc = 77/75 = 1
+
+an acc less than (1/2)*eva will never hit
+2 vs 5
+
+diff = 2-5 = -3
+
+mod = acc-diff = 2+-3 = -1
+
+hit = mod/acc = -1/3 = 0
+
+
+an acc greater than eva will always hit
+5 vs 2
+
+diff = |5-2| = |3|
+
+mod = acc-diff = 5+|3| = 8
+
+hit = mod/acc = 8/5 = 1
+
+an acc equal to eva will always hit :(
+
+5 vs 5
+
+diff = 5-5 = 0
+
+mod = acc+diff = 5+0 = 5
+
+hit = mod/acc = 5/5 = 1
+
+6 vs 3
+
+diff = 6 - 3 = 3
+
+mod = acc+diff = 6+3 = 9
+
+hit = mod/acc = 9/3 = 3 => 1
+
+3 vs 6
+
+diff = 3 - 6 = -3
+
+mod = acc+diff = 3-3 = 0
+
+hit = mod/acc = 0/6 = 0
+
+4 vs 6 (@ 2-3 ratio, there is a 50-50 chance to miss)
+
+diff = 4 - 6 = -2
+
+mod = acc+diff = 4-2 = 2
+
+hit = mod/acc = 2/4 = 1/2
+
+5 vs 6
+
+diff = 5 - 6 = -1
+
+mod = acc+diff = 5-1 = 4
+
+hit = mod/acc = 4/6 = 2/3
+

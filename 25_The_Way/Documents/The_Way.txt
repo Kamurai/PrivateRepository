@@ -1,0 +1,38 @@
+The Way Ruleset v0.2
+
+Setup:
+	Board:
+		Place the board on the table.  Place one player piece for each player in the center of the board.
+	Deck:
+		Shuffle the card deck and deal 4 cards to each player.
+		
+Symbols:
+	There are 4 basic symbols that represent directions on the board.
+		Air moves a player piece towards the yellow gate.
+		Earth moves a player piece towards the brown gate.
+		Fire moves a player piece towards the red gate.
+		Water moves a player piece towards the blue gate.
+		
+Play:
+	On each player's turn, they may do one of the following things:
+		1)	Draw a card.
+		2)	Play a card.
+			a)	This can affect your piece.
+			b)	This can affect pieces belonging to other players.
+			c)	This cannot result in a player exiting the board through another player's side of the board.
+			
+			Cards work by targeting 1, 2, or all player pieces.
+			This is represented by the number of borders on the card, 1 set of borders, 2 sets of borders, or 4 sets of borders.
+			
+			Cards with 1 set of borders will have 1 or 2 symbols, representing how far in the direction of the symbol to move the player piece.
+			Cards with 2 sets of borders will have 1 symbol in each set of borders, representing that the player may make two independent moves.
+			This can be one target twice, or two targets once.
+			Cards with 4 sets of borders will have 1 symbol, representing 1 movement for ALL player pieces in the direction of the symbol.
+			
+		3)	Discard a card to draw two cards.
+
+End Condition:
+	A player is moved off of the board through their respectively colored gate.
+	
+Win Condition:
+	The player moved off the board is the winner.

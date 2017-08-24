@@ -1,0 +1,43 @@
+Conversion Ruleset v0.1
+		
+Setup:
+	Place board on table.
+	Place element tokens on the board, these are piece limited.
+	Place currency tokens to the side of the board.
+	Deal two objective cards to each player.
+	
+Round:
+	The round leader is the first player to go in a round.
+	The round leader rotates clockwise each round.
+	Each player takes one action on their turn.
+
+Turn:
+	Go to Work:
+		Generate an element.
+		Place elements in worker spots to do different conversions:
+			Double an element
+			Fire to Air
+			Air to Water
+			Water to Earth
+			Earth to Fire
+			Fire to Earth
+			Earth to Water
+			Water to Air
+			Air to Fire
+			Fair trade:
+				Put one element out for someone to trade with you.
+				Trade with a presented element.
+	Turn in an objective.
+	Draw a new objective.
+	Buy elements, this can be from "the bank" or other players.
+		When buying from other players, those players may set their own prices or refuse to sell.
+	
+End condition:
+	Buy Out:		A player is out of objective cards, with at least 10 currency.
+	Retire:			A player is out of objective cards, has completed 5 objectives and is out of elements.
+	Shortage:		No elements can be collected.
+	Monopoly:		A player has all of one element.
+	Market Crash:	No currency is available.
+
+Win condition:
+	Have more currency than the other players.

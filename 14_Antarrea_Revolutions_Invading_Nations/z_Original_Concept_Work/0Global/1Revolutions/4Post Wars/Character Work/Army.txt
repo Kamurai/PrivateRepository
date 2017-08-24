@@ -1,0 +1,48 @@
+Army Architecture:
+
+
+The following structure are listed largest to smallest:
+Structure		Designation
+Bough	 		XYY.YYY.YYY
+Branch	 		XXY.YYY.YYY
+Division 		XXX.YYY.YYY
+Regiment 		XXX.XYY.YYY
+Bloc	 		XXX.XXY.YYY
+Company	 		XXX.XXX.YYY
+Plate	 		XXX.XXX.XYY
+Squad	 		XXX.XXX.XXY
+
+
+Color Designations are as follows
+
+Black	Troop
+Green	Sergeant
+Red	Company Leader
+Violet	Bloc Leader
+Blue	Regiment Leader
+Yellow	Division Leader
+White	Branch Leader
+Blue	Bough Leader	(General Equivalent)
+Grey	Empor		(Commander and Chief Equivalent)
+
+
+There are 5 troops per squad,		5 troops		per squad
+4 squads per plate,			20 troops		per plate
+5 plates per company,			100 troops		per company
+5 companies per bloc,			500 troops		per bloc
+5 blocs per regiment,			2,500 troops		per regiment
+8 regiments per division,		200,000 troops		per division
+5 divisions per branch,			1,000,000 troops	per branch
+5 branches per bough.			5,000,000 troops	per bough
+
+Leaders are not included in the above numbers
+
+There are 5 troops per squad,		1 leader		per squad
+4 squads per plate,			4+1 leaders		per plate
+5 plates per company,			5+1 leaders		per company
+5 companies per bloc,			25+1 leaders		per bloc
+5 blocs per regiment,			130+1 leaders		per regiment
+8 regiments per division,		1048+1 leaders		per division
+5 divisions per branch,			5245+1 leaders		per branch
+5 branches per bough.			26230+1 leaders		per bough
+ 

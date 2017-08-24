@@ -1,0 +1,21 @@
+Classes:
+
+Any character, despite race, can take any job, but will benefit more from having certain jobs.
+
+
+Equipment:
+
+
+Any character can equip any equipment, despite class, but will benefit more from having certain jobs.
+
+Armor:
+
+Option 1:  Armor just adds Hp to character's max hp (Final Fantasy Tactics)
+Option 2:  Armor deflects attacks (increases "evasion") (Dungeons and Dragons)
+Option 3:  Armor reduces damage to character (Attack - Defense = Damage) (Most standard)
+Option 4:  Armor has hp, and permanently absorbs that much damage before overflowing to character (Attack - Defense = Damage)
+	Option 5:  For permenant absorption, Armor has a % chance to break (% increases when hp is exceeded)
+	Option 6:  For permenant absorption, Armor breaks when hp is exceeded
+
+Option 7:  Armor absorbs a small amount, permanently, before allowing overflow to character, and character has "normal" hp
+Option 8:  Armor absorbs all of the damage, before breaking, and if armor is broken, then character takes the damage with its relatively small hp

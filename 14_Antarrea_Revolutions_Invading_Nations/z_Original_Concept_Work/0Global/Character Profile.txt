@@ -1,0 +1,16 @@
+Character Profile:
+
+Name:            _________Lv:
+                 |       |Hp:
+_________        |       |Mp:
+|*face* |        |       |Exp:
+|       |        |       |EtL:
+|_______|        |_______|
+
+Helm:            |Acc:
+Armor:           |Atk:
+Arm:             |Evd:
+Arm:             |Def:
+Access:          |PSI:
+Access:          |Mre:
+                 |Mpw:

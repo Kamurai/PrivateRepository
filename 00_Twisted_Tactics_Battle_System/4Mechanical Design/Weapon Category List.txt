@@ -1,0 +1,57 @@
+Melee:
+
+Pole-arm
+	Pike
+	Halberd
+	Scythe
+	Battle-Axe?
+Bo-Staff
+	Wood
+	Metal
+	Stone
+	Staff
+	Rod
+Wand
+Dagger
+Axe
+Sword
+	Short
+	Broad
+	Long
+	
+	Katana-?
+Bludgeoning
+	Hammer
+	Mace
+	Club
+Flail
+	Kasurigama (chain and sickle)
+	Nunchuks
+Shield
+Knuckle-Weapons
+	Brass Knuckles
+	Claws
+Bare-Hand
+Whips
+
+Miscellaneous:
+	Books
+	Paintbrushes
+
+
+
+
+Ranged:
+
+Guns
+Draw Bow
+Crossbows
+Auto-Bow
+Directed Fire
+
+	Expendable:
+	Shurikens
+	Knives
+	Grenades / Bombs
+	Javelin
+	Squirrel

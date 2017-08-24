@@ -1,0 +1,57 @@
+Pokemon Blood Bowl:
+	Idea for taking Pokemon and having them play Blood Bowl against one another.	
+		
+
+		
+Team makeup:
+
+
+Player Turn Sequence:
+	Resolvable in any order
+		Move:
+			Basic Movement
+			Jump Over
+			Go for it
+		Action:
+			Action Ability
+			
+		
+Action abilities:
+Abilities that the user chooses for the player.
+
+	Limit of 4 action abilites maximum at one time:
+		Throw Ball
+		Default Block/Hit
+		Special Block/Hit
+		Special Block/Hit
+		Buffer Action
+		Blitz
+		Throw player
+
+Passive abilities:  
+Abilities that "react" to actions/movements of other players.
+
+		Trip:
+			Default Trip
+			Shock/Stun
+			Poison
+		Pick up ball
+		Jump Over
+		
+Sizing system:
+	A larger player can "throw" a smaller player and gets a 
+	"throwing bonus" for every size for which they are larger.
+		Category Sizes:
+		0.  Togepi, Caterpie, Weedle
+		1.  Pikachu, Rattata, Meowth
+		2.  Sandshrew, Growlithe, Tentacool
+		3.  Raichu, Alakazam, Gengar
+		4.  Venusaur, Charizard, Blastoise
+		5.  Onix, Gyrados
+		
+Flying System:
+Square are two "blocks" high, and "blocks" in the same column are considered adjacent.
+When a "flying" character blocks, it declares from which direction it will throw the
+block.
+If a "flying" character falls, then it lands in the floor square from the direction 
+which it attacked.

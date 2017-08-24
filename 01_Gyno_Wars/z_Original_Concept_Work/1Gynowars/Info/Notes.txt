@@ -1,0 +1,26 @@
+
+
+Possible Techniques:
+
+Poison All
+Sleep All
+Stun All
+
+Cypher All
+Wake All
+Free All
+
+Remedy All
+
+Poison / Sleep
+Sleep / Stun
+Stun / Poison
+
+Poison / Sleep / Stun
+
+Poison / Sleep All
+Sleep / Stun All
+Stun / Poison All
+
+Poison / Sleep / Stun All
+

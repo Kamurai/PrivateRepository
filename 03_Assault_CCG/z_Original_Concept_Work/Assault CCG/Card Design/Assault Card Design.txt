@@ -1,0 +1,34 @@
+
+_________________________
+|SUMMON___NAME__UNSUMMON|
+| |ARTWORK            | |
+| |                   | | 
+| |                   | |
+| |                   | |
+| |                   | |
+| |                   | |
+| |___________________| |
+|TYPE-RACE___AFFILIATION|
+| |RULES              | |
+| |                   | |
+| |                   | |
+| |                   | |
+| |                   | |
+| |___________________| |
+|ALIGNMENT___________S/D|
+
+CARD TYPES: (MTG EQUIVALENTS)
+
+CREATURE	-SUMMONS
+
+SPELL		-INSTANTS
+
+CHANNEL		-SORCERY
+
+FUNCTION	-ARTIFACTS
+
+AUGMENTS	-ENCHANTMENTS
+
+COUNTER		-INTERUPT
+
+MANA		-LANDS
