@@ -1,0 +1,51 @@
+Story:
+		Basis:
+			There are 9 regions of the kingdoms, each ruled by a Governor (or the King).  There are 9 opposing forces in the far reaches between
+			castles.  The heroes play through 8 chapters, dealing with various problems in the kingdom for the governors.  The 9th chapter
+			reveals that an imposter king has been using the party to eliminate his competition for the throne and the party must rescue and
+			return the true king.
+		Governors:
+			1) Governer Zelda:			Angry like the Red Queen
+			2) Governer Mario:			Sad, just very depressed in life.
+			3) Governer Rock:			Overly joyful, quite manic about life.
+			4) Governer Kirby:			Sleepy, the narcolepsy is enabled by the P.A.
+			5) Governer Samus:			Smart, more academic than practical.
+			6) Governer Bowser:			Idiot, the staff is overworked due to poor leadership.
+			7) Governer Ganon:			Shy, so cripplingly shy, a mask is worn.
+			8) Governer Kong:			Sneezy, plagued by allergies or hay fever or SOMETHING....
+			9a) King Taruil:			A kind king looking to better his kingdom.
+			9b)	Imposter King Torval:	A brutal warlord looking to steal the kingdom to his iron grip.
+		Opposing forces:
+			1) Gnolls:		Gnoll King:		Tiana		Hyena like dog people.
+			2) Trolls:		King of Trolls:	Belle		Smelly.  Just large smelly monsters.
+			3) Ogres:		King of Bones:	Vanellope	Giant monsters that like to squish smaller creatures.
+			4) Goblins:		Goblin King:	Ariel		Little green nuisances, LOTS of little green nuisances.
+			5) Kobolds:		Dragon Lord:	Tinkerbell	Lizardy type people that worship dragons.
+			6) Fae:			Fairy King:		Pochahontas	Various types of beautiful, but deadly fae.
+			7) Undead:		Lich King:		Jasmine		I thought it was dead, *POW*, how about now?
+			8) Bandits:		Bandit King:	Merida		Your typical hooligans, ruffions...you know, bandits.
+			9) Demons:		Demon King:		Elsa		Evil, sadistic creatures from another dimension.
+		Chapters:
+			1) "A Helping Hand"
+				The King sends the party to help a neighboring region with some "small" issues they're having. It becomes apparent there are large 
+				groups of enemies actively attacking the kingdom.
+			2) "Give What You Get"
+				The party is set on a nearby encampment of enemies, and is sent to deal with a similar situation elsewhere in the kingdom.
+			3) "Shoot the Hostage"
+				The party is directed to rescue citizens being kidnapped by a group of enemies.
+			4) "Slay, Get Paid"
+				The party is directed to subdue rampant robberies by an encampment of enemies.
+			5) "Fetch Quest"
+				The Governer REALLY needs some...very special items...from a nearby encampment of enemies.
+			6) "Invasive Procedure"
+				Oh no, a region's castle has been invaded, the party has to rescue the Governer.
+			7) "Defensive Offense"
+				A region's castle was able to set up some defenses, they just need some help routing the enemies.
+			8) "The Helpful Governor"
+				There appears to be a single force of resistance, the party is sent to destroy it and save the kingdom.
+				Its revealed that the Governor is conspiring with King to control the kingdom.  Party is attacked.  Party fights their way out.
+			9) "Return of the King"
+				The King puts out warrants on the party.  The King is revealed to be an imposter.  The true king is found.  The fake is dethroned.
+									
+		
+	

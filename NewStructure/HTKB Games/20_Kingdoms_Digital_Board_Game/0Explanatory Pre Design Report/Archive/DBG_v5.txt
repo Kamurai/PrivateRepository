@@ -1,0 +1,65 @@
+Digital Board Game:
+	Idea for a "redo" of Dokapon Kingdom.	
+		
+
+Rebootable features:
+
+	Battle System:
+		Make it more like an old-school JRPG: FF4 or FF6.
+		Up to three rounds of battle per turn.
+	
+	Movement System:
+		Choose where you are trying to get to, then roll.
+		This allows you to be able to stop sooner as if you were trying to get somewhere, but had a 
+		chance of falling short of your goal.  (Unexpected weather and circumstance).
+		
+	Player interaction:
+		Be able to trade.
+		Be able to NOT attack one another.
+	
+	Item system:
+		A proper inventory that includes:
+			Being able to store equipment.
+			Being able to swap between different equipment.
+			
+	Magic System:
+		Cards for one shot spells.
+		Books for learning a spell permanently or while the book is equipped.
+		A book takes an equipment slot while learning, but learned spells do not.
+
+	Equipment System:
+		Slots:
+			Head
+			Armor
+			Pants
+			Boots
+			Left Hand
+			Right Hand
+			Accessory 1
+			Accessory 2
+
+	Race System:
+		Orc
+		Human
+		Elf
+		Dwarf
+		
+	Class System:
+		Warrior
+		Wizard (Black Mage)
+		Thief
+		Cleric (White Mage)
+
+		Paladin:		Warrior / Cleric
+		Dark Knight:	Warrior / Wizard
+		Vigilante:		Warrior / Thief
+		Ninja:			Thief / Wizard
+		Monk:			Thief / Cleric
+		Sage:			Cleric / Wizard
+		
+		Hero:			All
+		
+		
+
+		
+	

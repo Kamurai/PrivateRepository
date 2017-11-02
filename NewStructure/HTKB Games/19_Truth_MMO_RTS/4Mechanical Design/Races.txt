@@ -1,0 +1,12 @@
+Races:
+
+Humans
+Synergy (Energy, statis attacks)
+Crawlers (Bio-Ships)
+Ad Infinitum (robotic A.I. race)
+
+Nurgle-Like (anti-life specialities, decay: must find new crew members to infect)
+Eve         (cat people, aggressive, hand to hand specialty)
+Stones      (super tough, resistant to fire?)
+Torn        (psychic based race: telepathy, telekinetic, weak physiology)
+Gat         (high technology, weak physiology, "free" energy for systems or jumps.)

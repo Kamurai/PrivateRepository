@@ -1,0 +1,22 @@
+MMO RTS:
+	Unit and Building cap by resource siphens (pay dues/salary), not limits.
+	"Sleepy time defenses".
+	Individual stats, universal upgrades.
+		Existing units may get equipment upgrades by moving to source.
+		New units start equipped.
+	Passive resources
+		Headquarters generators some resources
+			Enough resources to maintain a few buildings/units.
+		Strategic points
+		"Fuel" points?
+		
+		
+Truth MMO RTS:
+
+Faster Than Light as an MMO RTS.
+
+Reset if ship is destroyed: dock in safe zone to gurantee ship health.
+
+Crew is "charged" for holding the ship per day.
+
+"Experience" is scrap/currency collected.

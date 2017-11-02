@@ -1,0 +1,4 @@
+Conspiratorium:
+You are a handler for "The Organization", each turn you must do research, turn an asset, direct an asset to a new location, or even call an assasination.  If only you knew who was who.
+
+It is worth noting that all the pieces are black, their affiliation noted on the bottom of the piece, last man standing's affiliation wins.
