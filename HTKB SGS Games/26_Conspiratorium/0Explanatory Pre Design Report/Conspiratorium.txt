@@ -3,8 +3,11 @@ Consipatorium Rulest v0.2
 Setup:
 	Board
 	Token Set: 100 tokens per player
-	Divide tokens equally amongst players
-	
+	Divide tokens equally amongst players, e.g. For two players, each gets 50 tokens of each players' type.
+	Each player places x number of tokens on the board:
+		Short game: 10 tokens.
+		Medium game: 24 tokens.
+		Long game: 48 tokens.
 Round:
 	Each player takes a turn performing one action.
 	
