@@ -1,2 +1,0 @@
-Width: 1160
-Height: 1144

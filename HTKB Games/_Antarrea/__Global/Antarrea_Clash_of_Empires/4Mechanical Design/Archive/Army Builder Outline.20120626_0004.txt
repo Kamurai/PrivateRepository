@@ -1,39 +1,25 @@
-Wars of Antarrea
+JUNK WARS
 
-Army Building
+GNOLLS
 
-12 squads, 1 retinue/general, 1 assasin
+BASE UNIT	GNOLL
 
+SIZE		8
+STRENGTH	8
+SPEED		7
+AGILITY		46
+SKILL		6
+LUCK		4
+POINT COST	36
 
-Characters
+GENERAL			PACK LEADER
+ASSITANT GENERAL	BOSS
+BODYGUARD (4)		MEATS
+SQUAD LEADERS (12)	BIG BARKER
+ASSASSIN		SCAVENGER
 
-1 Major Character	-General
-1 Minor Character	-Assistant General
-1-4 Retinue Characters	-Bodyguard
-12 Leader Characters	-Group Leaders
-1 Assassin		-Independent Characters
-
-Future:
-
-Assault		1-4
-
-Support		1-4
-
-Base		1-6
-
-Elite		1-3
-
-Mechanized	1-3
-
-
-Fantasy:
-
-Cavalry		1-4
-
-Elite		1-4
-
-Base		1-6
-
-Artillery	1-3
-
-Special		1-3
+CAVALRY(4)		WORG RIDERS
+ELITES(4)		POLE BEARERS
+BASE(6)			GNOLLS
+ARTILLERY(3)		STONE LAUNCHERS (SPREAD)
+SPECIAL(3)		ELVISH BOWMEN

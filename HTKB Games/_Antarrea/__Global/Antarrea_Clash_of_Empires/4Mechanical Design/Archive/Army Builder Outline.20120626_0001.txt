@@ -1,39 +1,33 @@
-Wars of Antarrea
+JUNK WARS
 
-Army Building
+GLADIATORS
 
-12 squads, 1 retinue/general, 1 assasin
+BASE UNIT	
+
+SIZE		
+STRENGTH	
+SPEED		
+AGILITY		
+SKILL		
+LUCK		
+POINT COST	
+
+GENERAL			ZAR
+ASSITANT GENERAL	BOSS
+BODYGUARD (4)		GUARDS
+SQUAD LEADERS (12)	LEADERS
+ASSASSIN		HIT
+
+CAVALRY(4)		
+ELITES(4)		
+BASE(6)			
+ARTILLERY(3)		
+SPECIAL(3)		
 
 
-Characters
+PICK N' MIX FROM:
 
-1 Major Character	-General
-1 Minor Character	-Assistant General
-1-4 Retinue Characters	-Bodyguard
-12 Leader Characters	-Group Leaders
-1 Assassin		-Independent Characters
-
-Future:
-
-Assault		1-4
-
-Support		1-4
-
-Base		1-6
-
-Elite		1-3
-
-Mechanized	1-3
-
-
-Fantasy:
-
-Cavalry		1-4
-
-Elite		1-4
-
-Base		1-6
-
-Artillery	1-3
-
-Special		1-3
+ORKS
+OGRES
+GOBLINS
+TROLLS

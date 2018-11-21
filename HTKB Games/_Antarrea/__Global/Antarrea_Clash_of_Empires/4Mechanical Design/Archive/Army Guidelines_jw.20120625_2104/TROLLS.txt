@@ -1,25 +1,9 @@
-JUNK WARS
+Junk Wars is a futuristic tabletop game set in Antarrea.
 
-TROLLS
+Turned Based
 
-BASE UNIT	TROLL
+Move:		Position and / or into combat
 
-SIZE		8
-STRENGTH	8
-SPEED		8
-AGILITY		6
-SKILL		8
-LUCK		6
-POINT COST	44
+Shoot:  	Fire from your squad to another
 
-GENERAL			WARCHIEF
-ASSITANT GENERAL	SECOND
-BODYGUARD (4)		SHIELDS
-SQUAD LEADERS (12)	ALPHAS
-ASSASSIN		HIT
-
-ASSAULT(4)		LIGHT VEHICLE
-SUPPORT(4)		LIGHT ARMOR
-BASE(6)			TROLLS
-ELITE(3)		BERZERKERS
-MECHANIZED(3)		LIGHT DREADNOUGHTS
+Assault:	Work out squads in combat

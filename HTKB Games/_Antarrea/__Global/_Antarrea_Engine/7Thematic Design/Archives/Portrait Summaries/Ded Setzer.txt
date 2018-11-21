@@ -1,37 +1,32 @@
-Character Name: Ded Setzer
+Character Name:  Jondas Blackhand
 
 General:
 
 male
-Caucasian, medium level pigment
-Brown, ear-length to neck-length straight hair
-Royal blue eyes
-Athletic somotype
+pigment:  fair skinned
+Black, neck-length straight hair
+Hunter green eyes
+Slim, elven somotype
 
 
 Defining Characteristics:
-
-Vertical Scar across right eye
+Scar across right cheekbone
+Scar along left jawline
 
 
 Clothing:
 
-Militia style boots
-Modular plated armor
-Rounded shoulder pads with adjoining cloak
+Cloth or leather to include boots (optional hood)
 
 
 Personality Style:
 
-Brooding / Pensive
-Uptight
-
+Arrogant
+Free-willed
 
 Accessories:
 
-Sword
-Cloak
-
+Stilettos (assasin weapons, not heels)
 
 Character Color:
-Dark blue
+Dark Green

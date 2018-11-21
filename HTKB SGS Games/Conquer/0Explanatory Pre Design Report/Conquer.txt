@@ -1,0 +1,31 @@
+Conquer Ruleset v0.1
+
+Setup:
+	Board:
+		Place each Kaiju on the center of the outmost layer of each sector
+		Place defenses on civilian territories
+		Place gold in civilian territories
+	Kaiju cards:
+		Place defense charges on the cards
+		Place attack charges on the cards
+		
+
+Round:
+	Each player spends their alloted number of action points.
+
+Turn:
+	A Kaiju gets 3 (base) actions:
+		
+		Move to an adjacent territory
+		Score Victory Points
+		Attack a territory
+		Play a card
+		Charge Defense
+		Get a discount
+		Charge attack
+
+End Condition:
+	At the end of the final round, the game ends.
+
+Win Condition:
+	At the end of the final round, the Kaiju with the most accumulated points, wins.

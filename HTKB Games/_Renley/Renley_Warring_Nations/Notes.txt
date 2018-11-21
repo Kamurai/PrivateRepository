@@ -1,5 +1,0 @@
-Go through and rename all subfolders to begin with numbers
- for the order they should be accomplished.
-
-Go through and design all the fonts and spacing.
-

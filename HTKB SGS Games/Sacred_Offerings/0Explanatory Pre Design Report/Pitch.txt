@@ -1,4 +1,0 @@
-Sacred Offerings:
-Play as gods swaying the people.  Each turn a player must move a person towards the sacrificial alter.
-
-A player earns 1 point for no sacrifices and negative points equal to the value of each person sacrificed.

@@ -1,4 +1,0 @@
-Hidden demon character that gains bonuses from demon weapons and has a "consume" ability.
-This allows the player to notice
-Consume ability, is only active when targeting a demon, or demon weapon.
-Imbue ability, able to put statistics into a weapon.

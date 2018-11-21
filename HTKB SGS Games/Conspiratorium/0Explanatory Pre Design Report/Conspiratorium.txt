@@ -1,4 +1,4 @@
-Consipatorium Rulest v0.2
+Consipatorium Ruleset v0.2
 
 Setup:
 	Board
