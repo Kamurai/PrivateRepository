@@ -1,0 +1,1611 @@
+<html>
+<title>
+Ded Setzer's Corton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Corton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Corton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Cuffer: Lv11</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Amphibian</td>
+<td><font color="black">1)Claw: Lv0</td>
+<td><font color="black">2)Action: Lv17</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Dive</td>
+<td><font color="black">2)Chill: Lv8</td>
+<td><font color="black">3)Heal: Lv24</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Lash: Lv15</td>
+<td><font color="black">4)Cure: Lv31</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Bite: Lv21</td>
+<td><font color="black">5)Hightime: Lv38</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Splash: Lv27</td>
+<td><font color="black">6)Life: Lv43</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Slash: Lv33</td>
+<td><font color="black">7)Melee: Lv49</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Ice: Lv42</td>
+<td><font color="black">8)Remedy: Lv56</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Tidalwave: Lv51</td>
+<td><font color="black">9)Neo Life: L64</td>
+</tr>
+<tr>
+<td><font color="black">65</td>
+<td><font color="black">9)Maul: Lv58</td>
+<td><font color="black"></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Tsunami: Lv64</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Waterball: Lv70</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)Icebeam: Lv76</td>
+<td></td>
+</tr>
+
+
+</table>
+
+<br><br>
+Profile: A humanoid Gyno that has a tail and reptilian features, dives and waits for its prey.
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+<html>
+<title>
+Ded Setzer's Dolton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Dolton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Dolton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Heal: Lv10</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Beast</td>
+<td><font color="black">1)Bubble: Lv0</td>
+<td><font color="black">2)Free: Lv15</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Dive</td>
+<td><font color="black">2)Spray: Lv8</td>
+<td><font color="black">3)Sleep: Lv21</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Lash: Lv14</td>
+<td><font color="black">4)Wake: Lv27</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Aquacolumn: Lv23</td>
+<td><font color="black">5)Cypher: Lv32</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Squirt: Lv37</td>
+<td><font color="black">6)Cure: Lv38</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Geyser: Lv45</td>
+<td><font color="black">7)Life: Lv44</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)PSI Blast: Lv52</td>
+<td><font color="black">8)Heal All: Lv49</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Waterball: Lv58</td>
+<td><font color="black">9)Neo Life: Lv57</td>
+</tr>
+<tr>
+<td><font color="black">66</td>
+<td><font color="black">9)Icebeam: Lv64</td>
+<td><font color="black">10)Cure All: Lv65</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td><font color="black">11)Seraphim: Lv71</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td><font color="black">12)Neo Seraphim: Lv78</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td><font color="black"></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+<html>
+<title>
+Ded Setzer's Donton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Donton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Donton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Fish</td>
+<td><font color="black">1)Splash: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Swim</td>
+<td><font color="black">2)Fin: Lv6</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Chill: Lv13</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Bite: Lv24</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Acid Rain: Lv33</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Ice: Lv38</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Tidal Wave: Lv45</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Snowfall: Lv53</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">65</td>
+<td><font color="black">9)Tsunami: Lv61</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Waterball: Lv67</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Icebeam: Lv73</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+
+<html>
+<title>
+Ded Setzer's Frogerton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Frogerton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Frogerton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Amphibian</td>
+<td><font color="black">1)Pound: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Jump</td>
+<td><font color="black">2)Spray: Lv10</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Bubble: Lv13</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Lash: Lv21</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Aqua Column: Lv28</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Squirt: Lv34</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Geyser: Lv42</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)PSI Blast: Lv50</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">70</td>
+<td><font color="black">9)Waterball: Lv55</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Icebeam: Lv62</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+<html>
+<title>
+Ded Setzer's Gilton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Gilton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Gilton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Dragon</td>
+<td><font color="black">1)Bubble: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Sneak</td>
+<td><font color="black">2)Spray: Lv6</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Bite: Lv13</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Squirt: Lv25</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Aquacolumn: Lv34</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Chill: Lv47</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Geyser: Lv52</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Ice: Lv60</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">71</td>
+<td><font color="black">9)PSI Blast: Lv73</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Waterball: Lv78</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Icebeam: Lv85</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+<html>
+<title>
+Ded Setzer's Gonton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Gonton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Gonton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Beast</td>
+<td><font color="black">1)Splash: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Swim</td>
+<td><font color="black">2)Bite: Lv8</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Chill: Lv17</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Acid Rain: Lv27</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Ice: Lv33</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Tidal Wave: Lv45</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Snowfall: Lv54</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Tsunami: Lv61</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">70</td>
+<td><font color="black">9)Waterball: Lv67</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Icebeam: Lv72</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+<html>
+<title>
+Ded Setzer's Gouton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Gouton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Gouton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Dragon</td>
+<td><font color="black">1)Claw: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Swim</td>
+<td><font color="black">2)Bite: Lv8</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Chill: Lv15</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Spray: Lv22</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Lash: Lv27</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Slash: Lv32</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Squirt: Lv37</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Ice: Lv42</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">72</td>
+<td><font color="black">9)PSI Blast: Lv48</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Maul: Lv57</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Waterball: Lv63</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)Icebeam: Lv69</td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+
+<html>
+<title>
+Ded Setzer's Klawton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Klawton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Klawton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Ittish</td>
+<td><font color="black">1)Cut: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Clear</td>
+<td><font color="black">2)Spray: Lv8</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Splash: Lv17</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Bubble: Lv24</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Aquacolumn: Lv32</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Tidal Wave: Lv41</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Squirt: Lv49</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Geyser: Lv56</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">64</td>
+<td><font color="black">9)Tsunami: Lv64</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)PSI Blast: Lv71</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Waterball: Lv78</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)Icebeam: Lv84e</td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+<html>
+<title>
+Ded Setzer's Merton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Merton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Merton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Humanoid</td>
+<td><font color="black">1)Pound: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Dive</td>
+<td><font color="black">2)Acid Rain: Lv12</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Chill: Lv21</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Aqua Column: Lv28</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Lash: Lv34</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Ice: Lv41</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Geyser: Lv50</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Snowfall: Lv56</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">69</td>
+<td><font color="black">9)Waterball: Lv62</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Icebeam: Lv69</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+<html>
+<title>
+Ded Setzer's Nanton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Nanton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Nanton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Amphibian</td>
+<td><font color="black">1)Claw: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Dive</td>
+<td><font color="black">2)Splash: Lv9</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Aqua Column: Lv20</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Bubble: Lv23</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Lash: Lv28</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Slash: Lv32</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Geyser: Lv40</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Tidal Wave: Lv46</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">68</td>
+<td><font color="black">9)Maul: Lv53</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Tsunami: Lv60</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Waterball: Lv66</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)Icebeam: Lv74</td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+<html>
+<title>
+Ded Setzer's Oton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Oton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Oton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Rodent</td>
+<td><font color="black">1)Splash: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Swim</td>
+<td><font color="black">2)Bubble: Lv8</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Claw: Lv14</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Spray: Lv24</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Tidal Wave: Lv33</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Acid Rain: Lv42</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Slash: Lv48</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Squirt: Lv56</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">62</td>
+<td><font color="black">9)Tsunami: Lv61</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Snowfall: Lv64</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Maul: Lv71</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)PSI Blast: Lv76</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">13)Waterball: Lv81</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">14)Icebeam: Lv89</td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+<html>
+<title>
+Ded Setzer's Penton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Penton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Penton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Bird</td>
+<td><font color="black">1)Beak: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Dive</td>
+<td><font color="black">2)Chill: Lv10</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Splash: Lv17</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Ice: Lv26</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Aqua Column: Lv38</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Acid Rain: Lv44</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Tidal Wave: Lv51</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Geyser: Lv63</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">65</td>
+<td><font color="black">9)Snowfall: Lv68</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Tsunami: Lv72</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Waterball: Lv74</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)Icebeam: Lv78</td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+fa<html>
+<title>
+Ded Setzer's Platon Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Platon Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Platon</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Rodent</td>
+<td><font color="black">1)Claw: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Burrow</td>
+<td><font color="black">2)Splash: Lv8</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Bubble: Lv15</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Slash: Lv26</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Acid Rain: Lv35</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Tidal Wave: Lv43</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Maul: Lv54</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Snowfall: Lv65</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">69</td>
+<td><font color="black">9)Tsunami: Lv73</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Waterball: Lv77</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Icebeam: Lv81</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+fa<html>
+<title>
+Ded Setzer's Salaton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Salaton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Salaton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Amphibian</td>
+<td><font color="black">1)Spray: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Swim</td>
+<td><font color="black">2)Splash: Lv6</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Bubble: Lv11</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Lash: Lv21</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Aqua Column: Lv28</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Tidal Wave: Lv34</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Squirt: Lv42</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Geyser: Lv53</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">72</td>
+<td><font color="black">9)PSI Blast: Lv63</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Tsunami: Lv69</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Waterball: Lv74</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)Icebeam: Lv79</td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+faa<html>
+<title>
+Ded Setzer's Squirton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Squirton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Squirton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Fish</td>
+<td><font color="black">1)Lash: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Swim</td>
+<td><font color="black">2)Splash: Lv11</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Spray: Lv18</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Aqua Column: Lv26</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Squirt: Lv38</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Tidal Wave: Lv45</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)PSI Blast: Lv53</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Tsunami: Lv61</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">70</td>
+<td><font color="black">9)Geyser: Lv67</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Waterball: Lv71</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)Icebeam: Lv75</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+faa<html>
+<title>
+Ded Setzer's Tortelton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Tortelton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Tortelton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Reptile</td>
+<td><font color="black">1)Pound: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Hide</td>
+<td><font color="black">2)Chill: Lv9</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Ram: Lv14</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Spray: Lv25</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Acid Rain: Lv32</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Aqua Column: Lv39</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)Ice: Lv46</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Snowfall: Lv53</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">68</td>
+<td><font color="black">9)Squirt: Lv64</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">10)Geyser: Lv68</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">11)PSI Blast: Lv73</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">12)Waterball: Lv78</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black">13)Icebeam: Lv84</td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
+
+
+<html>
+<title>
+Ded Setzer's Whaliton Page
+</title>
+<body>
+<body bgcolor="white">
+<font color="black">
+<p align="center"><font size="6">
+Ded Sezter's Whaliton Page
+</P>
+<br>
+<font size="3">
+<table width="100%">
+<tr>
+<td><font color="black">Gyno: Whaliton</td>
+<td><font color="black">Abilities:</td>
+<td><font color="black">Sunes:</td>
+</tr>
+<tr>
+<td><font color="black">Gynotype: Water</td>
+<td><font color="black">0)Tackle: Lv0</td>
+<td><font color="black">1)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Style type: Fish</td>
+<td><font color="black">1)Bubble: Lv0</td>
+<td><font color="black">2)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Attributes: Swim</td>
+<td><font color="black">2)Splash: Lv10</td>
+<td><font color="black">3)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Evolutions:</td>
+<td><font color="black">3)Spray: Lv20</td>
+<td><font color="black">4)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">4)Tidal Wave: Lv27</td>
+<td><font color="black">5)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">5)Squirt: Lv34</td>
+<td><font color="black">6)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">6)Tsunami: Lv41</td>
+<td><font color="black">7)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">LV Evolution</td>
+<td><font color="black">7)PSI Blast: Lv53</td>
+<td><font color="black">8)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">Base:</td>
+<td><font color="black">8)Waterball: Lv60</td>
+<td><font color="black">9)Sune: Lv0</td>
+</tr>
+<tr>
+<td><font color="black">65</td>
+<td><font color="black">9)Icebeam: Lv66</td>
+<td><font color="black">10)Sune: Lv0</td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="black"></td>
+<td></td>
+</tr>
+
+</table>
+
+<br><br>
+Profile: 
+<font size="3">
+<a href="http://members.xoom.com/dedsetzers/Gynowars/Gynowars.html"><p align="right">GYNOWARS TOC!</p></a>
+<a href="http://members.xoom.com/dedsetzers/Index.html"><p align="right">GO HOME!</p></a>
+</html>
