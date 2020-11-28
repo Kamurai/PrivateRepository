@@ -1,0 +1,40 @@
+"First Day on the Job"
+	There have been reports of issues at a distant mining colony in the far reaches of space.
+	The sheriff there has made some odd reports, to include some spectacular criminal activity.
+	There haven't been any recent reports, but the given reports are enough to move up a visit from the Federation.
+	You fly transport into the system, land on the planet, and take the train into the town of "Mining Colony Zed".
+	A warm name for a friendly town, certainly, but where there are resources, there are people to claim them.
+	Where there are people, there is community, so here's looking at a bottle half full.
+
+	On arrival, the Sheriff isn't to be found.  According to protocol, a Marshal is the acting Sheriff in this situation.
+	Until death or replacement.  With any luck the Sheriff will surface.
+
+	Investigate the town
+
+"Bank Robbery"
+	Pursue Criminal
+	Let Criminal go
+
+"Secret Meet Up"
+	Attack Criminal
+	Work with Criminal
+
+"Train Robbery"
+	Work with the Bounty Hunter
+	Work against the Bounty Hunter
+	Work with the Criminal
+	
+	
+"Bounty Claimed"
+	The Bounty Hunter brings in the Criminal
+		Refuse bounty.
+			Shoot Bounty Hunter
+			Shoot Criminal
+		Accept bounty.
+			Release Criminal
+
+	
+"Replacement Day"
+	Shoot the replacement
+	Brief the replacement
+	Board the train

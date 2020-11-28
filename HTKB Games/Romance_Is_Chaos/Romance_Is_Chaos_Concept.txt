@@ -1,0 +1,99 @@
+Romance Is Chaos
+
+
+1 man, 10 girls
+Set time frame of xxx days.
+Each day, events occur, with or without player participation.
+There are x event "slots" during a day in which the player must choose what happens.
+	This can include abstaining (pacifist run).
+	?Violent actions (Hyde run)
+
+Setting(s):?
+	Space:
+		On a space station: survivors.
+		+3A starship: Captain
+		+1Stranded on a planet
+		+2Space Western town: Sheriff / Marshal
+	School:
+		Boarding
+		College
+		+2Space Federation School: Instructor
+		
+Point System:  3 leveled
+	Affinity
+	Romance
+	Sexuality
+	
+Character Personalities:
+	Primary:		Stereotype
+	Secondary:		Twist
+	Affectionate:	Increased by romance
+	Sexual:			Increased by sexuality
+	
+Character Definitions:
+	Color Palette: 	Randomized
+	Body Type:		Fixed per character / personality.
+	Hair Style:		Fixed per character / personality.
+	Clothing:		Fixed per character / personality.
+	*Note:			Characters should be adjustable in settings.  Possibly after first run.
+						Should be adjustable enough that all characters can look the same.
+						
+Character Types:
+	Starship:
+		Science (Purple)
+			Astronomy
+			Xeno-Geology
+		Security (Red)
+			Armory
+			Intelligence
+		Medical (Blue)
+			Xeno-Biology
+			Psychology
+		Engineering (Green)
+			Engines
+			Maintenance
+		Command (Grey)
+			Pilot
+			Tactical
+		
+		Server
+		Bartender
+		Cook
+		A.I. / Holo
+		Chaplain
+	
+	Space Western:
+		Whore
+		Farmer
+		Chaplain
+		Bartender
+		Mechanic
+		Rancher
+		Bounty Hunter
+		Criminal
+		Schoolteacher
+		Merchant
+		
+		Piano Player
+		Beggar
+		Aristocrat
+		Miner
+		Storehand
+		
+	Training School:
+		Nerd
+		Free-Spirit
+		Quiet
+		Athletic
+		Hyper
+		Obsessive / Yandere
+		Angry / Tsudere
+		Passive
+		Charismatic
+		Weirdo
+		
+		Mess Officer
+		Custodian
+		Security Officer
+		Instructor Supervisor
+		Wannabe Cadet (Benevolent Infiltrator)
